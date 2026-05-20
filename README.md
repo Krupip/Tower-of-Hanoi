@@ -6,6 +6,5 @@ Nama Anggota:
 - Alvine Tansri (2510101009)
 
 # Cara Menjalankan Website Tower of Hanoi
-1. Buka tab baru
-2. Masukkan link ini: https://krupip.github.io/Tower-of-Hanoi/
-3. Selemat menikmati
+1. Klik link ini: https://krupip.github.io/Tower-of-Hanoi/
+2. Selamat menikmati
